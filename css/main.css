@@ -447,10 +447,10 @@ section:not(.hero) {
     grid-gap: 1em;
   }
 
-  .mobile-service {
+/*   .mobile-service {
     grid-column: span 2;
     grid-row: 3 / 4;
-  }
+  } */
 }
 
 .portfolio-card {
